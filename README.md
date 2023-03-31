@@ -1,6 +1,9 @@
 # Personal-Projects
 Personal Free-Time Projects develoepd in Python or C++
 
+I am always learning when it comes to coding as I develop and enhance my skills new projects will be added her. Currently I am interested in the use of Machine Learning with Algorithmic Training and am persuing personal projects in that field. 
+
+
 
 Equal Weight S&P 500 Screener:
 With a $10,000,000 portfolio, calcuting the most profitable stocks within the limitations of the S&P 500 for the best purchase at an Equal Weight meausrement. Using a basic tutorial I expanded on it for use with a newer version of IEX Cloud API. As well as, the use of XlsxWriter to streamline the excel creation process in my code. 
